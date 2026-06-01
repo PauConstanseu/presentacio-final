@@ -38,16 +38,6 @@ A continuació, es presenten els accessos directes a les diferents memòries i f
 
 ---
 
-### 🎯 Utilitat de l'Espai
-
-Aquest repositori ha estat dissenyat amb un triple propòsit:
-1. Actuar com a **carta de presentació professional** i portfoli competencial per al sector laboral de les TIC.
-2. Servir com a **evidència pràctica** i traçabilitat de les hores de laboratori i projectes realitzats.
-3. Configurar-se com una **eina de consulta tècnica** i suport didàctic per a futures implementacions.
-4. Ser utilitzat com a **defensa del projecte** davant el tribunal d'avaluació i el cos docent del cicle.
-
----
-
 ### 👨‍💻 Autoria del Projecte
 
 * **Consultor Tècnic:** Pau Constanseu
