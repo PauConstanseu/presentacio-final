@@ -1,4 +1,4 @@
-## 📁 Projectes Destacats del Cicle
+## 📁 Projectes del Cicle
 
 A continuació es mostren els projectes acadèmics i pràctics desenvolupats al llarg del curs, on s'apliquen metodologies àgils i solucions tècniques reals d'infraestructura i sistemes:
 
