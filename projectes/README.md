@@ -122,7 +122,7 @@ A continuació es mostren els projectes acadèmics i pràctics desenvolupats al 
 *   <details>
     <summary>📦 Entregables i Productes Finals</summary>
 
-    *   **Tasca 1:** [Auditoria i diagnòstic tècnic de les necessitats de l'usuari](https://github.com/PauConstanseu/projecte-8-PauConstanseu/tree/main/Tasca01)
-    *   **Tasca 2:** [Pla estratègic de sostenibilitat tecnològica aplicat](https://github.com/PauConstanseu/projecte-8-PauConstanseu/tree/main/Tasca02)
+*   **Tasca 1:** [Auditoria i diagnòstic tècnic de les necessitats de l'usuari](https://github.com/PauConstanseu/projecte-8-PauConstanseu/tree/main/Tasca01)
+*   **Tasca 2:** [Pla estratègic de sostenibilitat tecnològica aplicat](https://github.com/PauConstanseu/projecte-8-PauConstanseu/tree/main/Tasca02)
     </details>
 *   🔗 **Codi Font:** [Accés al Repositori de la Solució](https://github.com/PauConstanseu/projecte-8-PauConstanseu)
