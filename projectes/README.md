@@ -81,7 +81,7 @@ A continuació es mostren els projectes acadèmics i pràctics desenvolupats al 
 *   **P02:** Estudi d'arquitectura de llicenciament per a Windows Server 2025 *(No calia repositori)*
 *   **P03:** Definició de model de negoci sota criteris Green IT *(No calia repositori)*
     </details>
-*   💻 [**Repositori:**](https://github.com/PauConstanseu/projecte5-PauConstanseu)
+*   💻 [**Repositori**](https://github.com/PauConstanseu/projecte5-PauConstanseu)
 
 ---
 
